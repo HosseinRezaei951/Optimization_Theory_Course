@@ -22,15 +22,15 @@ This question deals with a quadratic function \( f(\mathbf{x}) = x_1^2 + 4x_2^2 
 
 - **3A.py**: This script generates a contour plot of the given quadratic function. Contour plots are essential in visualizing the function's level curves and identifying the minimum point visually. The global minimum can be observed in the contour plot below:
 
-![Contour Plot](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3A_contour_plot.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3A_contour_plot.png)
 
 - **3B.py**: This part applies the Gradient Descent algorithm to the quadratic function starting from different initial points. Gradient Descent iteratively updates the current point in the direction of the steepest descent, guided by the negative gradient. The script visualizes the path taken by the algorithm as it converges to the minimum. For example, the following plot shows the convergence path starting from the initial point \([2, 2]^T\):
 
-![Gradient Descent](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3B_gradient_descen[2,%202].png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3B_gradient_descen[2,%202].png)
 
 - **3D.py**: In this part, Newton's Method is used to find the minimum of the quadratic function. Newton's Method leverages the second derivative (Hessian matrix) to account for the curvature, often leading to faster convergence compared to Gradient Descent. Below is a plot that demonstrates the convergence path when starting from the initial point \([0, 0]^T\):
 
-![Newton's Method](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3D_newton_method[0,%200].png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/3D_newton_method[0,%200].png)
 
 ### Question 4
 
@@ -38,15 +38,15 @@ This question explores a non-linear function \( f(\mathbf{x}) = -\cos(x_1)\cos(x
 
 - **4A.py**: This script uses Newton's Method starting from an initial point \( x_0 = [0.75, -1.25]^T \). Given the non-linear nature of the function, the script examines how Newton's Method behaves when initialized away from the global minimum. The contour plot below visualizes the search path as the algorithm converges:
 
-![Newton's Method (4A)](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4A_newton_method[0.75,%20-1.25].png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4A_newton_method[0.75,%20-1.25].png)
 
 - **4B.py**: Newton's Method is applied again, but this time starting from \( x_0 = [0, 0]^T \). The script explores how starting from a different initial point affects convergence and whether Newton's Method successfully reaches the global minimum or gets stuck in a local minimum:
 
-![Newton's Method (4B)](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4B_newton_method[0,%200].png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4B_newton_method[0,%200].png)
 
 - **4C.py**: A hybrid approach is implemented here, where the algorithm starts with Newton's Method but switches to Gradient Descent if Newton's Method encounters issues (e.g., if the Hessian is not positive definite). This combined strategy ensures robust convergence:
 
-![Hybrid Method](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4C_newton_method[0,%200].png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/master/Exercises/2/results/4C_newton_method[0,%200].png)
 
 ## How to Use
 
