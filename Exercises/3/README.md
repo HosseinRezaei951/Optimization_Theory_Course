@@ -36,6 +36,7 @@ In this question, we apply various quasi-Newton methods and the Fletcher-Reeves 
 - **Results**: The path of convergence is plotted, showing how the method progresses towards the minimum.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1A_result%5B0.1,%201%5D.png)
 
 #### 1B: DFP Quasi-Newton Method
