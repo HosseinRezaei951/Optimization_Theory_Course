@@ -46,6 +46,7 @@ Example result visualization:
 - **Results**: The contour plot and convergence path are visualized.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1B_result%5B0.1,%201%5D.png)
 
 #### 1C: BFGS Quasi-Newton Method
@@ -55,6 +56,7 @@ Example result visualization:
 - **Results**: Visualizes the BFGS method's convergence.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1C_result%5B0.1,%201%5D.png)
 
 #### 1D: Fletcher-Reeves Gradient Method
@@ -64,6 +66,7 @@ Example result visualization:
 - **Results**: The method's convergence path is plotted and analyzed.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1D_result%5B0.1,%201%5D.png)
 
 #### 3D Plot Visualization
@@ -85,6 +88,7 @@ This question explores the application of trust-region methods, particularly the
 - **Results**: Visualization of the method's convergence.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/2(cauchy_point).png)
 
 #### Dog Leg Method
@@ -94,6 +98,7 @@ Example result visualization:
 - **Results**: Shows how the method navigates through the search space.
 
 Example result visualization:
+
 ![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/2(dog_leg).png)
 
 #### 3D Plot Visualization
