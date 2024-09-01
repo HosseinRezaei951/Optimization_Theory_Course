@@ -22,7 +22,7 @@ This question deals with a quadratic function \( f(\mathbf{x}) = x_1^2 + 4x_2^2 
 
 - **3A.py**: This script generates a contour plot of the given quadratic function. Contour plots are essential in visualizing the function's level curves and identifying the minimum point visually. The global minimum can be observed in the contour plot below:
 
-![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/master/Exercises/2/results/3A_contour_plot.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/2/results/3A_contour_plot.png)
 
 - **3B.py**: This part applies the Gradient Descent algorithm to the quadratic function starting from different initial points. Gradient Descent iteratively updates the current point in the direction of the steepest descent, guided by the negative gradient. The script visualizes the path taken by the algorithm as it converges to the minimum. For example, the following plot shows the convergence path starting from the initial point \([2, 2]^T\):
 

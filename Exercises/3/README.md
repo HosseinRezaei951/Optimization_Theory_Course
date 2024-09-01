@@ -36,7 +36,7 @@ In this question, we apply various quasi-Newton methods and the Fletcher-Reeves 
 - **Results**: The path of convergence is plotted, showing how the method progresses towards the minimum.
 
 Example result visualization:
-![MR-1 Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/1A_result%5B0.1,%201%5D.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1A_result%5B0.1,%201%5D.png)
 
 #### 1B: DFP Quasi-Newton Method
 
@@ -45,7 +45,7 @@ Example result visualization:
 - **Results**: The contour plot and convergence path are visualized.
 
 Example result visualization:
-![DFP Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/1B_result%5B0.1,%201%5D.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1B_result%5B0.1,%201%5D.png)
 
 #### 1C: BFGS Quasi-Newton Method
 
@@ -54,7 +54,7 @@ Example result visualization:
 - **Results**: Visualizes the BFGS method's convergence.
 
 Example result visualization:
-![BFGS Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/1C_result%5B0.1,%201%5D.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1C_result%5B0.1,%201%5D.png)
 
 #### 1D: Fletcher-Reeves Gradient Method
 
@@ -63,7 +63,7 @@ Example result visualization:
 - **Results**: The method's convergence path is plotted and analyzed.
 
 Example result visualization:
-![Fletcher-Reeves Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/1D_result%5B0.1,%201%5D.png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1D_result%5B0.1,%201%5D.png)
 
 #### 3D Plot Visualization
 
@@ -71,7 +71,7 @@ Example result visualization:
 - **Purpose**: Provides a 3D visualization of the function \( f(\mathbit{x}) = 10x_1^2 + x_2^2 \).
   
 Example 3D plot:
-![3D Plot](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/1_(3D_Plot).png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/1_(3D_Plot).png)
 
 ### Question 2: Trust-Region Methods
 
@@ -84,7 +84,7 @@ This question explores the application of trust-region methods, particularly the
 - **Results**: Visualization of the method's convergence.
 
 Example result visualization:
-![Cauchy Point Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/2(cauchy_point).png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/2(cauchy_point).png)
 
 #### Dog Leg Method
 
@@ -93,7 +93,7 @@ Example result visualization:
 - **Results**: Shows how the method navigates through the search space.
 
 Example result visualization:
-![Dog Leg Result](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/2(dog_leg).png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/2(dog_leg).png)
 
 #### 3D Plot Visualization
 
@@ -101,7 +101,7 @@ Example result visualization:
 - **Purpose**: 3D visualization of the Rosenbrock function for better understanding of the optimization landscape.
 
 Example 3D plot:
-![3D Plot](https://github.com/HosseinRezaei951/Operating_System_Course/blob/master/results/2_(3D_Plot).png)
+![alt text](https://github.com/HosseinRezaei951/Optimization_Theory_Course/blob/main/Exercises/3/results/2_(3D_Plot).png)
 
 ### Question 3: Constrained Optimization Using KKT Conditions
 
